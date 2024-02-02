@@ -2,7 +2,7 @@
 
 本项目是从APNIC下载最新IP地址分配数据库，从中筛选出分配给中国的IPv4地址范围，将其转换为CIDR格式。
 
-CIDR格式地址范围下载这个就行：[cnip-cidr.txt](https://github.com/isxpy/China-ip-range/cnip-cidr.txt)
+CIDR格式地址范围下载这个就行：[cnip-cidr.txt](https://github.com/isxpy/China-ip-range/blob/main/cnip_cidr.txt)
 
 ## APNIC
 
